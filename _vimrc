@@ -198,12 +198,12 @@ let Tlist_File_Fold_Auto_Close=1             " 自动折叠
 au BufRead,BufNewFile *.txt setlocal ft=txt
 
 " :LoadTemplate       根据文件后缀自动加载模板
-let g:template_path='D:/Apps/Gvim/vimfiles/template/'
+let g:template_path='D:/Program Files (x86)/Vim/vimfiles/template/'
 
 " :AuthorInfoDetect   自动添加作者、时间等信息，本质是NERD_commenter && authorinfo的结合
-let g:vimrc_author='Ruchee'
-let g:vimrc_email='my@ruchee.com'
-let g:vimrc_homepage='http://www.ruchee.com'
+let g:vimrc_author='Sd'
+let g:vimrc_email='x@x.x'
+let g:vimrc_homepage='http://127.0.0.1'
 
 " Ctrl + H            将光标移到当前行的行首
 imap <c-h> <ESC>I
