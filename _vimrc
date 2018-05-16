@@ -119,7 +119,8 @@ set writebackup              " 设置无备份文件
 set nobackup
 set autochdir                " 设定文件浏览器目录为当前目录
 "set nowrap                  " 设置不自动换行
-set foldmethod=syntax        " 选择代码折叠类型
+"set foldmethod=syntax        " 选择代码折叠类型
+set foldmethod=indent        " 选择代码折叠类型
 set foldlevel=100            " 禁止自动折叠
 
 set laststatus=2             " 开启状态栏信息
