@@ -72,7 +72,7 @@
 " 将所有以.html结尾的文档以Django Template语法进行渲染
 " 本配置语句必须放在所有配置的最前面
 
-source $VIMRUNTIME/vimrc_example.vim
+"source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim
 behave mswin
 
